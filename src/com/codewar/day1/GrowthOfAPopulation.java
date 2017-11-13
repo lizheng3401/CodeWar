@@ -1,3 +1,5 @@
+package com.codewar.day1;
+
 public class GrowthOfAPopulation {
 
     public static int nbYear(int p0, double percent, int aug, int p) {

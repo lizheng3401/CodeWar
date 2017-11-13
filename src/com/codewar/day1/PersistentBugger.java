@@ -1,3 +1,5 @@
+package com.codewar.day1;
+
 public class PersistentBugger {
 
     public static int persistence(long n) {

@@ -1,3 +1,5 @@
+package com.codewar.day1;
+
 public class JadenCasingStrings {
     public String toJadenCase(String phrase) {
         if(phrase == null || phrase.length() == 0 )

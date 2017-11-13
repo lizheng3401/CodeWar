@@ -165,7 +165,7 @@ Examples:
 给定两个字符串，统计出现的字母并按照字母表的顺序排序
 
 ```Java
-public class TwoToOne {
+public class com.codewar.day1.TwoToOne {
     
     public static String longest (String s1, String s2) {
        char[] str = (s1+s2).toCharArray();
